@@ -13,4 +13,4 @@ Create a visual graph of your voice
 11. Many breaks or no breaks whatsoever.
 12. No longer recordings then 3-5 minutes.
 13. Save tag to name of recording. State of arousel a) high b) medium c) low
-14. Print voice sample.
+14. Print voice sample in landscape.
