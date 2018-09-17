@@ -7,4 +7,4 @@ Create a visual graph of your voice
 5. See image for [portrait view](https://github.com/zdavatz/voice2graph/blob/master/images/portrait.png).
 6. Swipe to left to show list of old samples. Like with the amk files of AmiKo.
 7. Record the pitch of the voice on an X-Axis. Plot it against time.
-8. Record the intensitiy of the voice in dB.
+8. Record the intensitiy of the voice in dB. Plot against time.
