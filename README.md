@@ -8,7 +8,7 @@ Create a visual graph of your voice
 6. Swipe to left to show list of old samples. Like with the amk files of AmiKo.
 7. Record the pitch of the voice on an X-Axis. Plot it against time. Show between 3000 and 70 Hz. See [OverTone Analyzer](http://www.sygyt.com/de/download-mac/) for visualizing the pitch against the keys of a piano.
 8. Record the intensitiy of the voice in dB. Plot against time. Show between 20 and 120 dB. See [Sample](https://itunes.apple.com/us/app/db-meter-noise-measure/id1136677469?mt=8).
-9. Many breaks or no breaks whatsoever.
+9. Record the breaks. Many breaks or no breaks whatsoever.
 10. Max. 5 minute recordings.
 11. Save tag to name of recording. State of arousel a) high b) medium c) low
 12. Print voice sample in landscape.
