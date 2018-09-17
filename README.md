@@ -9,7 +9,7 @@ Create a visual graph of your voice
 7. Record the pitch of the voice on an X-Axis. Plot it against time. Show between 3000 and 70 Hz. See [OverTone Analyzer](http://www.sygyt.com/de/download-mac/) for visualizing the pitch against the keys of a piano.
 8. Record the intensitiy of the voice in dB. Plot against time. Show between 20 and 120 dB. See [Sample](https://itunes.apple.com/us/app/db-meter-noise-measure/id1136677469?mt=8).
 9. Big variation of dB
-10. Separate Female and Male voices.
+10. Separate Female (high pitched) and Male (loud) voices.
 11. Many breaks or no breaks whatsoever.
 12. No longer recordings then 3-5 minutes.
 13. Save tag to name of recording. State of arousel a) high b) medium c) low
