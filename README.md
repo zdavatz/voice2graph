@@ -8,3 +8,4 @@ Create a visual graph of your voice
 6. Swipe to left to show list of old samples. Like with the amk files of AmiKo.
 7. Record the pitch of the voice on an X-Axis. Plot it against time.
 8. Record the intensitiy of the voice in dB. Plot against time.
+9. [OverTone Analyzer](http://www.sygyt.com/de/download-mac/) does not do a bad job. But the visualisation could be better.
