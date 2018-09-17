@@ -12,4 +12,4 @@ Create a visual graph of your voice
 10. Max. 5 minute recordings.
 11. Save State of arousel to every recording from _Drop-Down_ a) high b) medium c) low
 12. Print voice sample in landscape on A4. Pitch is dotted line. dB is full line.
-13. We do not want to find hidden noises. We want to dispaly the the voice over a time period of max. 5 Minutes.
+13. We do not want to find hidden noises. We want to dispaly the voice over a time period of max. 5 Minutes.
