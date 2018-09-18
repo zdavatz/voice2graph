@@ -11,5 +11,5 @@ Create a visual graph of your voice
 9. Record the breaks. Many breaks or no breaks whatsoever. A break is when dB and pitch drop to zero.
 10. Max. 5 minute recordings.
 11. Save State of arousel to every recording from _Drop-Down_ a) high b) medium c) low
-12. Print voice sample in landscape on A4. Pitch is dotted line. dB is full line.
+12. Print voice sample in landscape on A4. Pitch is dotted line. dB is full line. X-axis is time. Y-axis is dB and Hz. A print out in landscape mode should show max 2.5 min. So 5 minutes fit on two pages in landscape layout.
 13. We do not want to find hidden noises. We want to display the voice over a time period of max. 5 Minutes with db and Hz.
