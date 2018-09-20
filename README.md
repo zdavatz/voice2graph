@@ -15,4 +15,4 @@ Create a visual graph of your voice
 12. Print voice sample in landscape on A4. Pitch is dotted line. dB is full line. X-axis is time. Y-axis is dB and Hz. See Pitch/dB Samples above. A print out in landscape mode should show max 2.5 min per page. So 5 minutes fit on two pages in landscape layout. Print must contain filename, timestamp and Arouse-Tag.
 13. We do not want to find hidden noises. We want to display the voice over a time period of max. 5 Minutes with db and Hz.
 14. Subglottal pressure is higher and transglottal airflow is lower in ADHD children. [See](https://www.ncbi.nlm.nih.gov/pubmed/25862604)
-15. Another interesting study [APPROXIMATING SUBGLOTTAL PRESSURE FROM ORAL PRESSURE](https://etd.ohiolink.edu/!etd.send_file?accession=bgsu1403711283&disposition=inline)
+15. Another interesting study [Approximating subglottal pressure from oral pressure](https://etd.ohiolink.edu/!etd.send_file?accession=bgsu1403711283&disposition=inline)
